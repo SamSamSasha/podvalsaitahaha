@@ -1,0 +1,8 @@
+img{height:250px;}
+.gifsandimgs{background-color: aquamarine;
+    display:flex;
+    justify-content:space-around;
+    flex-wrap:wrap;
+    min-height:300px;
+    align-items:center;
+    }
